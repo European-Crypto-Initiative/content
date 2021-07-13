@@ -1,29 +1,10 @@
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
 ### MiCA & Stablecoins
-
 
 ## Money on blockchain:  promoting Europe’s competitiveness through the development of a euro-stablecoins market
 
 <p style="text-align: right">
 v2 - April 27, 2021 \
 <em>EU Crypto Initiative</em></p>
-
 
 **The market in digital representations of euros on blockchains is growing fast, raising both economic, political and societal strategic questions. **
 
@@ -36,8 +17,6 @@ Most of the international political attention is currently on Facebook’s Diem 
 **To avoid another missed European opportunity in the digital transition, Europe needs a clear and unified vision for digital money innovation that takes in particular the form of privately-issued digital representations of euros (“euro stablecoins”). They will enhance and protect Europe’s economic competitiveness and sovereignty and strengthen the euro’s international role.**
 
 The purpose of this paper is, therefore:
-
-
 
 * To help inform and clarify the diverse universe of stablecoins;
 * To contrast the US and EU approaches and potential implications for Europe’s competitiveness;
@@ -182,19 +161,8 @@ Backed by crypto-assets
 
 Numerous pieces of research have studied and analysed those emergent representations of euros such as CBDCs and stablecoins throughout 2020, including from the FSB[^4], the IMF[^5], the ECB[^6], Banque de France[^7] and Bundesbank[^8]. Whilst important, these analyses have common flaws: they take a “one-size fits all” bank-type risk-based approach, they overstate the significance of (currently non-existing) stablecoins issued by Big Tech companies (whose success is far from certain), they ignore the significance and economic potential of crypto-asset markets, and confuse various forms of digital money (CBDC, tokenisation of commodities, tokenisation of crypto-assets, tokenisation of fiat currencies, tokenisation of baskets of assets / government bonds / currencies etc.).
 
-
-```
-Focus: On private and public distinctions
-
-One particular confusion is very concerning for the ongoing discussions. We have noticed that the blockchain-based assets are often conflated in one broad category: "private money". This broad category generally includes so-called cryptocurrencies (that we call "protocol tokens") and all the privately-issued representations of fiat currency (whether this representation is done by Big Tech, banks or crypto-assets companies) -  decentralized crypto-assets not being considered.
-
-This confusion is very comprehensible but is very damaging when considering their interest and risk profiles.
-```
-
-
  \
 **The diversity of the stablecoins universe is a very important consideration for EU policy-makers to take into account when looking at MiCA, as current trends in usage, funding and investor interest are indicative of future long-term developments. Yet, MiCA would currently operate to effectively ban those most active stablecoins while intended at focusing on others, such as Diem (formerly Libra**)**, which do not yet exist.**
-
 
 ### US dominance of the stablecoin market
 
@@ -206,13 +174,11 @@ The US is moving ahead and encouraging the development of USD stablecoins by the
 
 These initiatives from US regulators have sent a strong signal to the US market about the long-term value of open crypto-asset networks and provided the necessary regulatory clarity and incentives for US companies to enter and grow in the space. It further signals the US’s political intention to develop the US dollar’s reach in international finance and modernise its financial industry by supporting the development of private stablecoins. It is no exaggeration to qualify these recent moves as taking the offensive on the next generation of financial markets.
 
-
 ### Initiatives lead by other jurisdictions
 
 **In the UK**: the FCA launched a public consultation on stablecoins & crypto-assets on January 7 ( “UK regulatory approach to crypto-assets and stablecoins: Consultation and call for evidence”, January 2021). The consultation’s objective is clear: the UK identifies ways to be more competitive than Europe for crypto-assets companies in a post-Brexit environment. GBP stablecoins will likely be favoured, with the same private-focused strategy as the US.
 
 **In Switzerland**: a few stablecoin projects are gaining ground. The most well-known is XCHF, issued in 2018 by Swiss Crypto Tokens, a subsidiary of Bitcoin Suisse.  in the form of a first token called CryptoFranc – as an ERC-20 token on the Ethereum blockchain. The CryptoFranc (XCHF) is a stablecoin, representing a Swiss Franc-denominated bond. The value of 1 XCHF = 1 CHF. The total value of all XCHFs in circulation is fully backed by physical CHF banknotes, which are audited by Grant Thornton Bank Audit Ltd on a monthly basis.
-
 
 ### A very timid EU response
 
@@ -224,25 +190,17 @@ It is increasingly clear European Central Bank’s vision for stablecoins, suppo
 
 **The current EU approach will likely lead to durable domination from the US and Asia-based actors in the new digital economy opportunities that crypto-assets bring**. The all-encompassing nature of the MiCA proposal, which imposes a unique way of doing business to most crypto projects, effectively banning or hindering the development of some of the most innovative use cases, is a worrying signal.
 
-
-## 
-
-
 ## The EU’s necessary innovative and competitive shift
 
 **A vibrant private ecosystem based on crypto-assets and public blockchain has emerged in Europe over the last few years. Europe needs a more ambitious vision to unleash its potential, relying on strong public and private sector initiatives structured around three key pillars**.
 
 **1) Creating favourable conditions for the issuance of EUR private stablecoins by commercial banks or e-money institutions, allowing for direct competition with USD stablecoins**. Those stablecoins could be 1-to-1 collateralised to avoid any financial stability risk and have consumer protection supervision, investor protections and KYC/AML.  Such a shift would require the following conditions to exist:
 
-
-
-* **Regulatory clarity. **MiCA is a fantastic opportunity for Europe. But it also carries a high risk of dampening the massive innovation potential that Europe could deploy through the appropriate, proportionate regulation of EUR-stablecoins that could also support a more significant international role for the euro:
+* **Regulatory clarity.** MiCA is a fantastic opportunity for Europe. But it also carries a high risk of dampening the massive innovation potential that Europe could deploy through the appropriate, proportionate regulation of EUR-stablecoins that could also support a more significant international role for the euro:
     * Over-burdening on e-money tokens that present a minimal risk in terms of financial stability[^15].
-
-
     * Misguided in its scope, thus preventing innovation (see below);
 * **Political support**: the political messaging around tokenisation initiatives must shift from a blunt rejection of privately issued representation of money towards a more positive and nuanced stance on those tokens issued according to the regulation. Entrepreneurs will not dare invest in risky, growth generating ventures if politicians keep signalling that they will not welcome their business, based on a misguided “1 size DIEM fits all” view of the stablecoins market.
-* **The traditional financial services sector and the EU crypto-asset industry **are best positioned to issue EUR-based stablecoins. Issuing commercial money is the business of banks. Stablecoins are merely a new representation of this activity. European banks and e-Money institutions should embrace this innovation and issue stablecoins, leveraging the EU crypto-asset industry’s technical and functional expertise.
+* **The traditional financial services sector and the EU crypto-asset industry** are best positioned to issue EUR-based stablecoins. Issuing commercial money is the business of banks. Stablecoins are merely a new representation of this activity. European banks and e-Money institutions should embrace this innovation and issue stablecoins, leveraging the EU crypto-asset industry’s technical and functional expertise.
 * **Active investment from the EU**: issuing stablecoins is a costly activity that requires a significant amount of capital. The EU could financially support certain ventures and even actively participate in the issuance of such tokens. The European Blockchain Service Infrastructure initiative from DG CONNECT could be leveraged to this end.
 
 **2) Supporting the development of “decentralised” stablecoins in Europe. **
@@ -255,17 +213,13 @@ The four conditions outlined in the previous section are desirable for the devel
 
 **3) Development and issuance of a CBDC by the ECB **will complement the private sector’s initiative in the longer term.
 
-
 ## Conclusion
-
 
 ### Addressing the “elephant in the room” without “throwing the baby with the bathwater”
 
 It is no secret that the MiCA regulation is primarily a response to Facebook’s led Diem (formerly Libra) project.** The perspective of a tech giant issuing quasi-currencies accessible to an enormous client base with no proper supervision is indeed concerning. We support initiatives that aim to regulate stablecoins, and even more strongly, those that would pose any kind of systemic risk.**
 
 However, the regulator should not throw the baby out with the bathwater. Properly regulated stablecoins:
-
-
 
 * represent a key component in the development of innovative and fast-growing digital markets based on crypto-assets;
 * could be leveraged as tools to develop the euro’s reach outside of Europe, as those markets are inherently international (as adequately understood by the USA);
@@ -276,22 +230,17 @@ By creating high barriers to entry to any actor that would envision the issuance
 
 If the crypto-assets market becomes, as we envision, a significant part of the financial infrastructure in the future, this de-facto domination by US-based actors would have very adverse consequences for European actors.
 
-
 ### Straightforward technical adjustments to MiCA which protect EU innovation and enhance the international role of the euro
 
 MiCA should allow for: 1) the deployment of suitable private Euro stablecoins; 2) the use and deployment of decentralised stablecoin projects from Europe; and 3) the issuance of a CBDC on public blockchains.
 
 We see no significant obstacle to the latter point in current MiCA drafting. However, we observe proportionality issues regarding the private Euro stablecoins as well as blocking dispositions concerning decentralised stablecoin projects.
 
-
-
-1. **On private Euro stablecoins**
+**1. On private Euro stablecoins**
 
 The regulatory clarity required for the deployment of such stablecoins is not entirely granted by MiCA. The regulatory burden placed on projects that are a simple tokenisation of existing reserves - and therefore do not pose significant risk to financial stability - is not justified.
 
-
 #### Proposal 1: Increase thresholds for exemptions and significance
-
 
 ```
 Proposal (non-exhaustive): 
@@ -299,19 +248,13 @@ MiCA, article 43§2: Raise the issuance thresholds to be exempted from rules rel
 MiCA, article 50: Raise significantly the criteria to be considered "significant"; in this regard, (i) increase minimum daily transactions size, issuance size / market capitalisation and size of the reserve assets and (ii) do not consider the "significance of the cross-border activities". Reduce the EBA arbitrary power in determining the significance of e-money tokens.
 ```
 
-
-
 #### Proposal 2: Adapt the requirements progressively based on the size and maturity of actors
-
 
 ```
 Proposal (non-exhaustive): 
 MiCA, articles 31: Ease own funds requirements and the possible adjustment by competent authorities
 MiCA, article 119: The delegated act on supervision fees to be adopted by the Commission should take into account the impact of such fees on issuers of stablecoins regarding their size and stage of development. This should be reflected in a progressive fee scale. The level of fees should not be such as to deter actors willing to participate in EU crypto-markets. 
 ```
-
-
-
 
 2. **On decentralised stablecoins.**
 
@@ -370,7 +313,7 @@ Get in touch with us: [contact@euci.io](mailto:contact@euci.io)_
      https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-6.html
 
 [^14]:
-     in **Germany, **EURB issued on a public blockchain by a German bank as a test; In **Malta**: the only effectively used stablecoin is STASIS EURO 
+     in **Germany**, EURB issued on a public blockchain by a German bank as a test; In **Malta**: the only effectively used stablecoin is STASIS EURO 
 
 [^15]:
 
